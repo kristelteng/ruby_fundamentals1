@@ -8,6 +8,3 @@ age = gets.chomp
 year_birth = 2014 - age.to_i
 
 puts "I am #{age} years old and I was born in #{year_birth}"
-
-
-
